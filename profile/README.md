@@ -1,15 +1,32 @@
-<p align="center">
-  <img src="/profile/b2f6df7e-5ecc-4fd9-8d8e-d6dd9cdcdae1.png" alt="intraRP Graffiti" height=256px width=auto>
-</p>
+# 🚑 EmergencyForge
 
-<!--
-## Hi there 👋
+**EmergencyForge** ist ein unabhängiges Open-Source-Entwicklerteam mit Fokus auf **Rettungsdienst- und Feuerwehr-Software für Roleplay-Server** (v. a. FiveM).  
+Wir entwickeln praxisnahe, modulare Tools zur Fraktions-, Einsatz- und Dokumentationsverwaltung – **kostenlos, offen und community-getrieben**.
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 📦 Wichtige Repositories
+
+- **[intraRP](https://github.com/EmergencyForge/intraRP)**  
+  Intranet für Fraktionen (Personal, Einsätze, Dokumente, Protokolle)
+
+- **[intraTab](https://github.com/EmergencyForge/intraTab)**  
+  Ingame-Tablet & Notfallprotokoll-Anbindung für FiveM
+
+- **[intraRP-Setup](https://github.com/EmergencyForge/intraRP-Setup)**  
+  Installer & Setup-Hilfen für intraRP
+
+---
+
+## 🌐 Links & Community
+
+- 🌍 Website: https://emergencyforge.de  
+- 💬 Discord: https://emforge.app/dc
+- 🎥 TikTok / Instagram / YouTube: **@EmergencyForge**
+
+---
+
+## 🤝 Mitmachen
+
+Alle Projekte sind **Open-Source**.  
+Issues, Pull Requests, Feedback und neue Ideen sind jederzeit willkommen.
