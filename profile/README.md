@@ -10,7 +10,7 @@ Wir entwickeln praxisnahe, modulare Tools zur Fraktions-, Einsatz- und Dokumenta
 - **[intraRP](https://github.com/EmergencyForge/intraRP)**  
   Intranet für Fraktionen (Personal, Einsätze, Dokumente, Protokolle)
 
-- **[intraTab](https://github.com/EmergencyForge/intraTab)**  
+- **[intraTab](https://emforge.app/downloadtab)**  
   Ingame-Tablet & Notfallprotokoll-Anbindung für FiveM
 
 - **[intraRP-Setup](https://github.com/EmergencyForge/intraRP-Setup)**  
