@@ -22,5 +22,5 @@ Wir entwickeln praxisnahe, modulare Tools zur Fraktions-, Einsatz- und Dokumenta
 
 - 🌍 Website: [https://emergencyforge.de](https://emergencyforge.de) 
 - 💬 Discord: [https://emforge.app/dc](https://emforge.app/dc)
-- 🛒 Tebex: [https://emforge.app/tebex](https://emforge.app/tebex) (Für intraTab und weitere FiveM Ressourcen)
+- 🛒 Tebex: [https://emforge.app/tebex](https://emforge.app/tebex) (Für weitere FiveM Ressourcen)
 - 🎥 TikTok / Instagram / YouTube: **@EmergencyForge**
