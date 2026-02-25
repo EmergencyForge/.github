@@ -13,7 +13,7 @@ Wir entwickeln praxisnahe, modulare Tools zur Fraktions-, Einsatz- und Dokumenta
 - **[intraRP-Setup](https://github.com/EmergencyForge/intraRP-Setup)**  
   Installer & Setup-Hilfen für intraRP
 
-- **[intraTab](https://github.com/EmergencyForge/intraTab)**  
+- **[intraTab](https://emfor.ge/downloadtab)**  
   FiveM Ingame-Verbindung für eNOTF & fireTab
 
 ---
