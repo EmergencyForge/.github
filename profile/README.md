@@ -16,6 +16,9 @@ Wir entwickeln praxisnahe, modulare Tools zur Fraktions-, Einsatz- und Dokumenta
 - **[intraTab](https://emfor.ge/downloadtab)**  
   FiveM Ingame-Verbindung für eNOTF & fireTab
 
+- **[ef_lib](https://github.com/EmergencyForge/ef_lib)**  
+  Menü-, Dialog-, Benachrichtigungs- und Interaktionssystem für FiveM
+
 ---
 
 ## 🌐 Links & Community
